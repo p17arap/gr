@@ -1,4 +1,3 @@
-
 ---
 author: evabat
 title: active-badge
