@@ -1,5 +1,5 @@
 ---
-author: evabat
+author: p17arap
 title: Instagram
 image_url: /images/instagram-1581266_960_720.jpg
 caption: 'Το Active Badge που υλοποιήθηκε από το ερευνητικό εργαστήριο Olivetti το 1990 είναι από τα
